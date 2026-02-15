@@ -15,13 +15,6 @@ It covers creation and management of pluggable databases (PDBs), user administra
 
 All tasks were executed locally using Oracle Database 21c on Windows.
 
----
-
-# Oracle Environment
-
-- Oracle Database: 21c Enterprise Edition  
-- Container Database (CDB): ORCL  
-- Default PDB: ORCLPDB  
 
 ---
 
