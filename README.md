@@ -97,10 +97,12 @@ Solution: Set `db_create_file_dest` parameter and recreated PDB
 
 ---
 
-# Issues Encountered
-Yes — all resolved successfully.
+# SQL Commands File
 
----
+All SQL commands used in this assignment are provided in a separate file:
+
+oracle_commands.sql
+
 
 # PDB Created
 **ke_pdb_27113**
