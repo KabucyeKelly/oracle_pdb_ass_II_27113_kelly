@@ -15,7 +15,6 @@ It covers creation and management of pluggable databases (PDBs), user administra
 
 All tasks were executed locally using Oracle Database 21c on Windows.
 
-
 ---
 
 # Task 1 — Main PDB Creation and User Setup
@@ -31,6 +30,7 @@ The process involved:
 - Opening the PDB  
 - Switching session to the PDB  
 - Creating and granting privileges to the user  
+- Verifying user connection via Oracle SQL Developer  
 
 ## Evidence (Click to View)
 
@@ -39,6 +39,7 @@ The process involved:
 - [Switched to PDB](screenshots/task1_03_inside_pdb.png)  
 - [User Created](screenshots/task1_04_user_created.png)  
 - [User Verified](screenshots/task1_05_user_verified.png)  
+- [User Connection via SQL Developer](screenshots/task1_06_sql_developer_connection.png)  
 
 ---
 
@@ -78,6 +79,14 @@ https://localhost:5500/em
 
 ---
 
+# SQL Commands File
+
+All SQL commands used in this assignment are provided in a separate file:
+
+**oracle_commands.sql**
+
+---
+
 # Challenges Encountered and Solutions
 
 **ORA-65096: invalid common user or role name**  
@@ -90,15 +99,11 @@ Solution: Set `db_create_file_dest` parameter and recreated PDB
 
 ---
 
-# SQL Commands File
+# Submission Information
 
-All SQL commands used in this assignment are provided in a separate file:
-
-oracle_commands.sql
-
-
-# PDB Created
-**ke_pdb_27113**
+**Repository Link:** https://github.com/[your-username]/oracle_pdb_ass_II_27113_kelly  
+**PDB Name Created:** ke_pdb_27113  
+**Issues Encountered:** Yes — resolved successfully  
 
 ---
 
