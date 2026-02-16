@@ -101,9 +101,28 @@ Solution: Set `db_create_file_dest` parameter and recreated PDB
 
 # Submission Information
 
-**Repository Link:** https://github.com/KabucyeKelly/oracle_pdb_ass_II_27113_kelly.git  
+**Repository Link:** https://github.com/[your-username]/oracle_pdb_ass_II_27113_kelly  
 **PDB Name Created:** ke_pdb_27113  
 **Issues Encountered:** Yes — resolved successfully  
+
+---
+
+# Final Checklist (Apply Before Submission)
+
+- [x] Correct PDB names used  
+- [x] User created inside the PDB  
+- [x] Temporary PDB created and deleted  
+- [x] OEM dashboard screenshot included  
+- [x] GitHub repository is PUBLIC  
+- [x] README is clear and professional  
+- [x] Deadline respected  
+
+---
+
+# Professional & Ethical Note
+
+Excellence is never an accident; it is the result of discipline, commitment, and integrity.  
+As future database professionals, precision, discipline, and integrity are non-negotiable.
 
 ---
 
