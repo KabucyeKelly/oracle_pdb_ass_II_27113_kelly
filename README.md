@@ -101,7 +101,7 @@ Solution: Set `db_create_file_dest` parameter and recreated PDB
 
 # Submission Information
 
-**Repository Link:** https://github.com/[your-username]/oracle_pdb_ass_II_27113_kelly  
+**Repository Link:** [https://github.com/[your-username]/oracle_pdb_ass_II_27113_kelly](https://github.com/KabucyeKelly/oracle_pdb_ass_II_27113_kelly.git)  
 **PDB Name Created:** ke_pdb_27113  
 **Issues Encountered:** Yes — resolved successfully  
 
